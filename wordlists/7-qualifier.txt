@@ -2,7 +2,6 @@ boss
 champion
 chief
 executive
-laureate
 maiden
 major
 masculine

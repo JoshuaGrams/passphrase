@@ -8,6 +8,6 @@ trimmed the adjective lists, pluralized all the nouns, and made a
 generator that produces five-word passphrases, such as:
 
 * four predictably outspoken elderly crayfish
-* ample adoringly beautiful portly fowl
+* ample radially impeccable translucent kodiaks
 * eleven fabulously humble teenage spidermonkeys
 * infinite ruthlessly gifted Rayon polecats
