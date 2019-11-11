@@ -1,0 +1,14 @@
+adolescent
+adult
+ancient
+antique
+baby
+elderly
+infantile
+mature
+modern
+old
+older
+teenage
+young
+younger

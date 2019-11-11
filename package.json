@@ -1,0 +1,14 @@
+{
+  "name": "passphrase",
+  "version": "0.0.1",
+  "description": "A simple passphrase generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Grams <himself@joshgrams.com>",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "secure-random-uniform": "^3.1.0"
+  }
+}
